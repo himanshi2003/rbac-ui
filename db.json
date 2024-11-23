@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "8ef2",
+      "name": "himanshi",
+      "role": "sde",
+      "status": "Active"
+    }
+  ],
+  "roles": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "permissions": [
+        "Read",
+        "Write",
+        "Delete"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Editor",
+      "permissions": [
+        "Read",
+        "Write"
+      ]
+    },
+    {
+      "id": "c541",
+      "name": "editor- edit",
+      "permissions": []
+    }
+  ]
+}
